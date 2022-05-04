@@ -8,7 +8,9 @@ namespace Anagram_Checker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var anagramChecker = new AnagramChecker();
+            var inputsAreAnagrams = anagramChecker.CheckAnagramsAreValid("abcd", "cadb");
+            Console.WriteLine($"inputs are anagrams of each other equals {inputsAreAnagrams}");
         }
     }
 
