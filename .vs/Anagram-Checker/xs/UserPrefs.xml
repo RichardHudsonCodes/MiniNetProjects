@@ -1,17 +1,10 @@
 ﻿<Properties StartupConfiguration="{5A1CFD23-5D67-4C62-A0A9-AD806162141D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Anagram-Checker/Program.cs">
-    <Files>
-      <File FileName="Anagram-Checker/Program.cs" Line="17" Column="5" />
-      <File FileName="Anagram-Checker/AnagramChecker.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Anagram-Checker" expanded="True">
-            <Node name="Anagram-Checker" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Anagram-Checker-Tests" expanded="True" />
+            <Node name="Anagram-Checker" selected="True" />
           </Node>
         </State>
       </Pad>
