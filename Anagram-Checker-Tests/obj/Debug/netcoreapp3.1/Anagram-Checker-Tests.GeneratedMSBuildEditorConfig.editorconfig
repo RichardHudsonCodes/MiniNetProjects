@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Anagram_Checker_Tests
+build_property.ProjectDir = /Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker-Tests/

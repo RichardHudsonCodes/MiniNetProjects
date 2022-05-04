@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5A1CFD23-5D67-4C62-A0A9-AD806162141D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Anagram-Checker-Tests/Anagram-Unit-Tests.cs">
+    <Files>
+      <File FileName="Anagram-Checker/Program.cs" Line="12" Column="42" />
+      <File FileName="Anagram-Checker-Tests/Anagram-Unit-Tests.cs" Line="6" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Anagram-Checker" expanded="True">
+            <Node name="Anagram-Checker" expanded="True" />
+            <Node name="Anagram-Checker-Tests" expanded="True">
+              <Node name="Anagram-Unit-Tests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Anagram-Checker" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Anagram-Checker-Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Anagram-Checker FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

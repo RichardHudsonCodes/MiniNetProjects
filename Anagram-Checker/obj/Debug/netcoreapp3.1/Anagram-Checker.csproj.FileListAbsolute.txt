@@ -1,0 +1,13 @@
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/bin/Debug/netcoreapp3.1/Anagram-Checker.deps.json
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/bin/Debug/netcoreapp3.1/Anagram-Checker.runtimeconfig.json
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/bin/Debug/netcoreapp3.1/Anagram-Checker.runtimeconfig.dev.json
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/bin/Debug/netcoreapp3.1/Anagram-Checker.dll
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/bin/Debug/netcoreapp3.1/Anagram-Checker.pdb
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.csproj.AssemblyReference.cache
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.AssemblyInfoInputs.cache
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.AssemblyInfo.cs
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.csproj.CoreCompileInputs.cache
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.dll
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.pdb
+/Users/richardhudson/Projects/Anagram-Checker/Anagram-Checker/obj/Debug/netcoreapp3.1/Anagram-Checker.genruntimeconfig.cache
